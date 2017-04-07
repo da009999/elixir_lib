@@ -1,0 +1,3 @@
+I just got done watching @taylonr's Elixir course on @pluralsight
+I scheduled this tweet using Elixir after watching @taylonr's course on @pluralsight
+I can't wait to learn more about Elixir.
